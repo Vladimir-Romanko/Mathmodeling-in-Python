@@ -1,5 +1,5 @@
 """
-CRYPTARITHMS 2   --   by wowik SEPTEMBER 2019
+CRYPTARITHMS 2   --   by wowik SEPTEMBER 2019  TUT ETO BRANCH1, NAH !!!
 """
 import numpy as np
 import itertools
