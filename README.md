@@ -1,3 +1,3 @@
-# mathmodeling
+# Mathematical Modeling
 Codes of different mathematical models.
-# HUI !!!!! AHAHAHAHAHAHAHA
+
