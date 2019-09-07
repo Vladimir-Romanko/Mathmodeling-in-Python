@@ -1,6 +1,6 @@
 # Cryptarithm, also known as alphametics, cryptarithmetic, verbal arithmetic or word addition
 
-Cryptarithms-solver.py	 --  It is a universal cryptarithm-solver for adding up any number of terms.
+Cryptarithms-solver_addition.py	 --  It is a universal cryptarithm-solver for adding up any number of terms. Enter any cryptarithm to add any number of terms. Input format: "TERMONE+TERMTWO+TERMTHREE=SUM"
 
 By Romanko Vladimir, SEPTEMBER 2019.
 
