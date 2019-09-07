@@ -8,3 +8,5 @@ About cryptarithms you can read these links:
 https://en.wikipedia.org/wiki/Verbal_arithmetic and http://www.cryptarithms.com 
 
 In Russian:  http://rebus1.com/index.php?item=cryptarithm
+
+You can try to solve some cryptarithms by hand, but it is much harder than using Python-solver.
