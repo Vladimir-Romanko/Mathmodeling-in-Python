@@ -4,7 +4,7 @@
 You can see this process in GIF-images (GIFs are from Internet).
 By Romanko Vladimir, July 2019.
 
-2) Pi-calculation-(Buffon-needle).py - It is calculation of the Pi-number by throwing Buffon's needles.
+2) Pi-calculation-(Buffon-needle).py -- It is calculation of the Pi-number by throwing Buffon's needles.
 You can see this process in GIF-images (GIFs are from Internet).
 By Romanko Vladimir, July 2019.
 
