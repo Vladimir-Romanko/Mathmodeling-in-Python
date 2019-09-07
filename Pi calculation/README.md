@@ -7,7 +7,7 @@ By Romanko Vladimir, July 2019.
 2) Pi-calculation-(Buffon-needle).py - It is calculation of the Pi-number by throwing Buffon's needles.
 By Romanko Vladimir, July 2019.
 
-About Buffon's needle https://mste.illinois.edu/activity/buffon/
+About Buffon's needle https://mste.illinois.edu/activity/buffon/  and 
 https://www.mathsisfun.com/activity/buffons-needle.html 
 
 About the Monte-Carlo method you can read here
