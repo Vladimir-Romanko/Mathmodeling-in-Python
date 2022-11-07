@@ -125,5 +125,5 @@ for i in generator(NACH, KONEC):
         print(" =",summ,"    Different digits =",I)
     
 if not resh:
-    print("NO SOLUTION FOUND")
+    print("NO SOLUTION  FOUND")
 t2=t.time();   print("Total program execution time is ", t2-t0, "seconds")
