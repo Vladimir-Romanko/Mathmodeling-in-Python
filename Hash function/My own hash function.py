@@ -4,6 +4,9 @@
  the hexadecimal number system. The resulting hash string
  always has two characters "0x" at the beginning and then 
  64 characters [0-9] and [a-f].
+ 
+ For example, the message "Here is a statement" becomes this hash:
+ "0xd44b94d9bc030cecc46d1ba51d103bf5885d2355222566a1dd3fb6f9fca97f63"
 
 At the end of the program, the user can test this hash function.
  To do this, you need to enter two messages as the 
