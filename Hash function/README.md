@@ -1,5 +1,7 @@
 This program has created a hash function that converts any incoming message (string data type) into a hash (mishmash). The hash has a dimension of 256 bits and is a number in the hexadecimal number system. The resulting hash string always has two characters "0x" at the beginning and then 64 characters [0-9] and [a-f].
 
+For example, the message "Here is a statement" becomes this hash: "0xd44b94d9bc030cecc46d1ba51d103bf5885d2355222566a1dd3fb6f9fca97f63"
+
 About hash functions    https://en.wikipedia.org/wiki/Hash_function  
 In Russian    https://habr.com/ru/post/534596/
 
